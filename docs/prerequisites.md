@@ -4,22 +4,6 @@ sidebar_position: 2
 
 # Prerequisites
 
-In this series, you will need to have an understanding in
-
-- **Javascript**
-- variables
-- Arrays
-- Objects
-- Functions
-- Arrow Functions
-- Classes
-- Destructuring
-- javascript fundamentals
-
-Overall a great understanding of Javascript.
-
-## Development environment
-
 In terms of the development environment, make sure you installed Nodejs globally in your machine. You will also need to use node package managers during this series.
 guide to install nodejs in your machine
 
